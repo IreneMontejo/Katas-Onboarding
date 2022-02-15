@@ -1,2 +1,2 @@
-# Katas: Primera Misión Onboarding
+# Katas: Onboarding. 🚀✨
 En este repositorio se encuentran las katas de la Primera Misión de Onboarding del curso de LaunchX.
